@@ -1,0 +1,8 @@
+﻿<flash_project name="Vändtia Live" version="1">
+    <project_file path="./Card.as" filetype="as" />
+    <project_file path="./Communication.as" filetype="as" />
+    <project_file path="./Pile.as" filetype="as" />
+    <project_file path="./Player.as" filetype="as" />
+    <project_file path="./Tablecards.as" filetype="as" />
+    <project_file path="./Vändtia Live.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
